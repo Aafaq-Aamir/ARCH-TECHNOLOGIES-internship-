@@ -5,6 +5,7 @@
 A basic spam classifier that identifies whether an input email message is Spam or Not Spam using text classification.
 
 Features
+
 Input a full email or message
 Uses CountVectorizer + Multinomial Naive Bayes
 Instant spam classification
